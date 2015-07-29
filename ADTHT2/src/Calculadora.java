@@ -1,11 +1,5 @@
-
-public class Calculadora 
-{
-    Pila miPila = new Pila();
-    int contadorOperadores = 0;
-    
-    public Calculadora() 
-    {
+/*Hola*/
+public class Calculadora {
 
     }
 
